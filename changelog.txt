@@ -1,0 +1,127 @@
+== Changelog ==
+
+
+= 1.1.4 - 2024-05-08 =
+* Tweak: Added `Icon Animation Type` control for `Lazyload Widget`.
+* Tweak: Added functionality for license-data updating.
+* Tweak: Added client data functionality to installer.
+* Tweak: Added client data functionality to theme activation.
+
+
+= 1.1.3 - 2024-03-28 =
+* Tweak: Regenerate theme styles on theme update.
+* Tweak: Added notice for Body Background.
+* Bug Fix: Fixed background gradient.
+* Bug Fix: Replace woocommerce pages on import.
+* Bug Fix: Fixed import for query in products slider widget.
+* Bug Fix: Fixed kit styles.
+* Bug Fix: Added parsing ids in dynamic tags on import.
+* Bug Fix: Changed templates import.
+* Bug Fix Fixed import templates in woo-archive-products widget.
+
+
+= 1.1.2 - 2023-10-26 =
+* Tweak: Optimized getter for kit options.
+* Bug Fix: Fixed deprecated methods.
+* Bug Fix: Fixed settings for Elementor 3.17.0.
+
+
+= 1.1.1 - 2023-10-16 =
+* New Functionality: Added `Widget Lazy Load` functionality.
+* Bug Fix: Fixed installer styles.
+* Bug Fix: Fixed dynamic popup importer.
+* Bug Fix: Fixed importer for toggles templates.
+* Bug Fix: Fixed ACF Pro update in Plugin Activator.
+* Bug Fix: Fixed progress bar percents on import.
+
+
+= 1.1.0 - 2023-08-09 =
+* New Functionality: Add mode switcher settings section.
+* New Functionality: Add second logo functionality for mode switcher.
+* Tweak: Added word-spacing to typography.
+* Bug Fix: Fixed size/units structure in typography default constants.
+* Bug Fix: Importer optimization.
+* Bug Fix: Update taxonomy and comments counts after import.
+* Bug Fix: Fixed elementor preview dialog buttons.
+
+
+= 1.0.10 - 2023-03-24 =
+* Tweak: Optimize importer.
+* Tweak: Update swiper 8.4.5.
+* Bug fix: Fixed gutenberg widget `gallery`.
+* Bug fix: Fixed gutenberg widget `columns`.
+
+
+= 1.0.9 - 2022-11-04 =
+* Tweak: Changes for installer (fast activation issue).
+* Tweak: Updated widget importer.
+* Tweak: Updated content importer.
+* Bug Fix: Fixed removing default widgets in sidebars before import.
+* Bug Fix: Fixed content importer.
+* Bug Fix: Fixed admin menu icon.
+* Bug Fix: Fixed audio player button styles.
+* Bug Fix: Fix for gutenberg button icon.
+* Bug Fix: Fix for products list.
+* Bug Fix: Fixed gutenberg editor.
+
+
+= 1.0.8 - 2022-05-26 =
+* Tweak: Importer optimization.
+* Bug Fix: Fixed activation redirect for woocommerce.
+* Bug Fix: Fixed admin menu icon.
+
+
+= 1.0.7 - 2022-03-31 =
+* Tweak: Change installer demos styles.
+* Tweak: Add IMPORT_TYPE functionality (demos/kit).
+* Bug Fix: Fixed "Soft Deprecation" for Elementor 3.6.0.
+* Bug Fix: Fixed activation redirect for Elementor 3.6.0.
+* Bug Fix: Fixed import templates for elementor.
+* Bug Fix: Allow unfiltered file upload for templates import.
+* Bug Fix: Fixed main layout.
+* Bug Fix: Fixed logo img.
+
+
+= 1.0.6 - 2021-12-29 =
+* Tweak: Updated scripts for elementor `Improved Asset Loading`.
+* Bug Fix: Fixed main layout.
+
+
+= 1.0.5 - 2021-12-21 =
+* Tweak: Changed gutenberg-wp styles.
+* Tweak: Changed WooCommerce notices styles.
+* Tweak: Filtered page title for WooCommerce shop page.
+* Tweak: Added box-shadow controls to dropdown container in Kits.
+
+
+= 1.0.4 - 2021-12-10 =
+* Tweak: Changed styles for comment-respond.
+* Tweak: Added creation kit if it was not created.
+* Tweak: Change woocommerce styles.
+* Tweak: Changes for WPML support.
+* Tweak: Changes for Elementor Pro support.
+* Tweak: Added selection styles.
+* Tweak: Changes for elementor custom breakpoints.
+
+
+= 1.0.3 - 2021-11-03 =
+* Tweak: Changed textarea height in comments.
+* Tweak: Changed single styles.
+* Bug fix: Fixed WooCommerce zoom buttons.
+
+
+= 1.0.2 - 2021-10-19 =
+* Tweak: Change single product thumbnails styles.
+* Bug fix: Fixes for PHP 8.0.
+* Bug fix: Fixed styles for post password form.
+
+
+= 1.0.1 - 2021-09-30 =
+* Bug fix: Fixed error with responsive controls in elementor 3.4.0.
+* Bug fix: Fixed token regeneration.
+* Bug fix: Fixed WooCommerce styles.
+* Bug fix: Fixed elementor custom breakpoints in settings.
+
+
+= 1.0.0 - 2021-08-19 =
+* Release

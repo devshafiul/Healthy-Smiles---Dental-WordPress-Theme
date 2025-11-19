@@ -1,0 +1,21 @@
+@charset "UTF-8";
+/*
+Theme Name: Healthy Smiles
+Theme URI: https://healthy-smiles.cmsmasters.net/
+Author: cmsmasters
+Author URI: https://cmsmasters.net/
+Description: Healthy Smiles Dental WordPress Theme for Elementor is a all-in-one dental clinic and dentist theme – it has all the needed dedicated dentistry functionality and clean medical style, so that lets you set up a dental clinic website, as well as a aesthetic dentistry clinic website of a orthodontist services page.
+Version: 1.1.4
+License:
+License URI:
+Text Domain: healthy-smiles
+Domain Path: /theme-config/languages
+Tags: one-column, two-columns, three-columns, four-columns, left-sidebar, right-sidebar, custom-background, custom-colors, custom-header, custom-menu, editor-style, featured-image-header, featured-images, flexible-header, full-width-template, microformats, post-formats, rtl-language-support, sticky-post, theme-options, threaded-comments, translation-ready
+*/
+
+
+.sticky,
+.bypostauthor,
+.screen-reader-text {
+  outline: none;
+}
